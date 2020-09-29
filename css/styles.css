@@ -1,0 +1,110 @@
+body
+{
+  text-align: center;
+  margin: 0;
+  font-family: verdana, sans-serif;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #febf63;
+  border-width: 20px;
+  width: 10%;
+}
+
+h1
+{
+  color: #318fb5;
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+}
+
+h2
+{
+  font-weight: normal;
+  color: #318fb5;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3
+{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a
+{
+  color: #11999E;
+}
+
+.top-container
+{
+  background-color: #ade498;
+  padding-top: 100px;
+  position: relative;
+  padding: 1rem;
+}
+
+.middle-container
+{
+  background-color: #ede682;
+  padding: 1rem;
+}
+
+.contact-me
+{
+  background-color: #febf63;
+  padding: 1rem;
+}
+
+.bottom-container
+{
+  background-color: #005086;
+  padding: 1rem;
+}
+
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.mountain
+{
+  height: 300px;
+  width: 400px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-picture
+{
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
+.skill-row
+{
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-picture
+{
+  float: left;
+  margin-right: 1.875rem;
+  width: 25%;
+}
